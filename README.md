@@ -1,2 +1,2 @@
 # Text-Replacer
-Replacing instances of a specified string in a .txt with another specified string
+Replacing instances of a string in all .txt files in a direectory with another string
